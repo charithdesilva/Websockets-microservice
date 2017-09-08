@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: chat-server
+Implementation-Version: 0.1.0
+Archiver-Version: Plexus Archiver
+Built-By: svalusa
+Implementation-Vendor-Id: sample
+Spring-Boot-Version: 1.4.3.RELEASE
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: sample.Application
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/chat-server/
+
